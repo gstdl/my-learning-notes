@@ -163,3 +163,7 @@ When you need all the data to be connected, Neo4j is a better choice.
 # Certification
 
 [Neo4j Fundamentals](https://graphacademy.neo4j.com/u/0b1bed14-3f76-40ad-9442-046ec8b1274b/neo4j-fundamentals)
+
+# Next Part
+
+[Introduction to Cypher](fundamentals/checkpoint-2-and-3-cypher.md)
