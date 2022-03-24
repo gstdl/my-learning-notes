@@ -166,4 +166,4 @@ When you need all the data to be connected, Neo4j is a better choice.
 
 # Next Reading
 
-[Introduction to Cypher](fundamentals/checkpoint-2-and-3-cypher.md)
+[Introduction to Cypher](checkpoint-2-cypher.md)
