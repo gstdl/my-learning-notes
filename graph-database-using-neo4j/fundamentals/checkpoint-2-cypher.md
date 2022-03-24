@@ -45,11 +45,11 @@ RETURN p.name
 
 The query above will return the name of Person's who acted in the Movie titled Cloud Atlas.
 
-## Clauses/keywords in Cypher
+## Clauses in Cypher
 
 ### Clauses for reading data
 
-In the cypher query sample above, you've seen the clause `MATCH` and `RETURN`. But what does those keywords do? The list below will explore the clauses in cypher and what does each keyword do.
+In the cypher query sample above, you've seen the clause `MATCH` and `RETURN`. But what does those clauses do? The list below will explore the clauses in cypher and what does each keyword do.
 
 - `MATCH` retrieve node(s)
 - `RETURN` return the specified after the clause (In the cypher query sample above it returns the person's name). This behavior is similar to SQL's `SELECT` clause
@@ -187,3 +187,7 @@ To delete nodes/relationships, there are 2 clauses.
 # Certification
 
 [Cypher Fundamentals](https://graphacademy.neo4j.com/u/0b1bed14-3f76-40ad-9442-046ec8b1274b/cypher-fundamentals)
+
+# Next Reading
+
+[Graph Data Modeling](checkpoint-3-graph-data-modeling.md)
