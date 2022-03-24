@@ -1,7 +1,3 @@
-# About
-
-Test
-
 # Topics
 
-- [Graph Database Using Neo4j](/test/test)
+- [Graph Database Using Neo4j](/graph-database-using-neo4j/README.md)
