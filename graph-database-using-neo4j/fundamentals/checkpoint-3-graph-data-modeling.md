@@ -580,6 +580,20 @@ MERGE (a)-[:PLAYED]->(role:Role{name:r.role})-[:IN_MOVIE]->(m)
 SET r.role = null
 ```
 
+# Additional Note
+
+In order to check your graph data model's schema, you can execute the following Cypher query:
+
+```cypher
+CALL db.schema.visualization()
+```
+
+or
+
+```cypher
+CALL apoc.meta.graph
+```
+
 # Certification
 
 [Graph Data Modeling Fundamentals](https://graphacademy.neo4j.com/u/0b1bed14-3f76-40ad-9442-046ec8b1274b/modeling-fundamentals)
